@@ -1,0 +1,68 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "userId": 2001,
+        "department": "연구개발부서 웹개발팀 소프트웨어개발자",
+        "telIn": "321-2345",
+        "telOut": "010-1111-2222",
+        "auth": "admin"
+      },
+      {
+        "id": 2,
+        "userId": 2002,
+        "department": "마케팅부서 시장분석팀 데이터분석가",
+        "telIn": "321-2346",
+        "telOut": "010-3333-4444",
+        "auth": "Work"
+      },
+      {
+        "id": 3,
+        "userId": 2003,
+        "department": "인사팀 채용팀 채용담당자",
+        "telIn": "321-2347",
+        "telOut": "010-5555-6666",
+        "auth": "Officer"
+      },
+      {
+        "id": 4,
+        "userId": 2004,
+        "department": "홍보팀 인터넷팀 인터넷홍보팀장",
+        "telIn": "321-2348",
+        "telOut": "010-7777-8888",
+        "auth": "Staff"
+      },
+      {
+        "id": 5,
+        "userId": 2005,
+        "department": "경영지원부서 재무팀 회계담당",
+        "telIn": "321-2349",
+        "telOut": "010-9999-0000",
+        "auth": "Command"
+      },
+      {
+        "id": 6,
+        "userId": 2006,
+        "department": "기술지원부서 IT팀 시스템관리자",
+        "telIn": "321-2350",
+        "telOut": "010-1234-5678",
+        "auth": "Captain"
+      },
+      {
+        "id": 7,
+        "userId": 2007,
+        "department": "제품개발부서 디자인팀 제품디자이너",
+        "telIn": "321-2351",
+        "telOut": "010-8765-4321",
+        "auth": "Op"
+      },
+      {
+        "id": 8,
+        "userId": 2008,
+        "department": "서비스운영부서 고객지원팀 고객지원담당",
+        "telIn": "321-2352",
+        "telOut": "010-1111-3333",
+        "auth": "common"
+      }
+    ]
+}
