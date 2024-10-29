@@ -37,7 +37,7 @@ jobs:
           node-version: 20
           # cache: 'npm'
 
-      - run: npm i --legacy-peer-deps
+      - run: npm i
       - run: npm run build
         env:
           CI: false
