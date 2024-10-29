@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import { onBeforeMount } from "vue";
-import { initializeApp } from "./composables";
-import {useDateStore} from '@store'
+import { initializeApp } from "@composables/initialization";
 onBeforeMount(() => {
   initializeApp();
 });
@@ -13,5 +12,4 @@ onBeforeMount(() => {
   </router-view>
 </template>
 
-<style>
-</style>
+<style></style>

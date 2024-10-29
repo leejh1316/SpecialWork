@@ -1,3 +1,7 @@
-export { default as setupTheme } from "./setupTheme";
-export { default as initializeApp } from "./initializeApp";
- 
+import initializeApp from "./initializeApp";
+import setupTheme from "./setupTheme";
+
+const initialization = { initializeApp, setupTheme };
+
+export { initializeApp, setupTheme };
+export default initialization;
