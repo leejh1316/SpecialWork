@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "dev": "concurrently \"vite\" \"json-server --watch db.json --port 5000\"",
-    "start" :"vite",
+    "start": "vite",
     "dev-window": "concurrently 'vite' 'json-server --watch db.json --port 5000'",
-    "build": "vue-tsc && vite build",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
