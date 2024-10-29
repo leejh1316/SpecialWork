@@ -17,6 +17,7 @@ export default defineConfig({
       "@composables": path.resolve(__dirname, "./src/composables"),
     },
   },
+  base: "/SpecialWork/",
   build: {
     outDir: "dist",
   },
